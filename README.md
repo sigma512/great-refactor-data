@@ -82,5 +82,5 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 ---
 
 **Author:** Jeff Whatcott  
-**Contact:** [your contact method]  
-**Last updated:** January 2025
+**Contact:** jeff@whatcott.com
+**Last updated:** October 2025
