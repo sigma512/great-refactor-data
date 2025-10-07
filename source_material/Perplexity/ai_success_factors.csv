@@ -1,0 +1,20 @@
+Success_Factor_Category,Specific_Factor,Evidence_Strength,Supporting_Cases
+Strategic Alignment,Clear business objectives tied to P&L impact,Strong,15
+Strategic Alignment,Executive leadership commitment and sponsorship,Strong,12
+Strategic Alignment,AI strategy integrated with digital transformation,Strong,10
+Change Management,Structured change management with OCM professionals,Strong,8
+Change Management,Employee training and upskilling programs,Medium,6
+Change Management,Communication and transparency about AI objectives,Medium,7
+Technical Implementation,Hybrid architecture (probabilistic AI + deterministic guardrails),Strong,9
+Technical Implementation,Iterative implementation with pilot-to-production pathway,Strong,14
+Technical Implementation,Technical infrastructure readiness and integration,Medium,8
+Organizational Culture,AI-ready culture promoting innovation and learning,Medium,5
+Organizational Culture,Cross-functional collaboration and knowledge sharing,Strong,11
+Organizational Culture,Trust-building through explainable AI and human oversight,Strong,7
+Data & Infrastructure,"High-quality, governed data pipelines",Strong,13
+Data & Infrastructure,Real-time data access and integration capabilities,Medium,9
+Data & Infrastructure,Scalable cloud infrastructure and MLOps practices,Medium,6
+Governance & Risk,Responsible AI frameworks and ethical guidelines,Medium,4
+Governance & Risk,Risk management and continuous monitoring,Strong,8
+Governance & Risk,Compliance with regulatory requirements,Medium,5
+,,,

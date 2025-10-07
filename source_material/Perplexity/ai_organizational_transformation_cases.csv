@@ -1,0 +1,44 @@
+Organization,Sector,AI_Technology,Process_Type,Business_Function,Implementation_Stage,Success_Outcome,Key_Metrics_Achieved,Time_Horizon,Organization_Size
+Microsoft (1000+ customer stories),Technology,Generative AI/Copilot,Cross-departmental,Multiple,Production,Success,Multiple productivity gains,Ongoing,Enterprise
+Lumen Technologies,Telecommunications,AI Tools,Single-department,Sales/Operations,Production,Success,"$50M annual savings, 4hrs/week saved",12+ months,Enterprise
+Air India,Aviation,AI Virtual Assistant,Single-department,Customer Service,Production,Success,97% automation of 4M+ queries,12+ months,Enterprise
+PGP Glass,Glass Manufacturing,GenAI/Copilot,Single-department,Operations,Production,Success,30-40 min/day productivity gain,3-6 months,Mid-market
+Sandvik,Manufacturing,Manufacturing Copilot,Single-department,Manufacturing/Documentation,Production,Success,30% productivity improvement,12+ months,Enterprise
+Toshiba,Technology/Conglomerate,GenAI/Copilot,Cross-departmental,Multiple,Production,Success,5.6 hrs/month saved per employee,12+ months,Enterprise
+Volvo Group,Automotive,AI Tools,Cross-departmental,Multiple,Production,Success,Multiple efficiency gains,12+ months,Enterprise
+McDonald's China,Food Service,Azure AI/GenAI,Cross-departmental,Operations/Customer Service,Production,Success,2K to 30K transactions/month,12+ months,Enterprise
+Uber,Transportation,RPA,Cross-departmental,Operations/Finance,Production,Success,"$10M annual savings, 100+ processes",36+ months,Enterprise
+Spotify,Entertainment/Music,AI/ML,Cross-departmental,Operations/Content,Production,Success,Multiple operational improvements,24+ months,Enterprise
+Deloitte,Professional Services,RPA/Chatbots,Cross-departmental,Knowledge Management,Production,Success,Various process improvements,24+ months,Enterprise
+Harmonic Machine Inc.,Manufacturing,RPA/Automation,Single-department,Manufacturing,Production,Success,"100% machine utilization, 24/6 uptime",12+ months,Mid-market
+Siemens,Industrial Technology,Azure OpenAI,Cross-departmental,Operations/R&D,Production,Success,Multiple efficiency improvements,12+ months,Enterprise
+Tokyo Metropolitan Government,Government,ChatGPT,Cross-departmental,Operations/Administration,Production,Success,Improved operational efficiency,6-12 months,Government
+West Java Provincial Government,Government,Digital Talent Management,Single-department,HR/Talent Management,Production,Success,Improved talent management objectivity,12+ months,Government
+State of Mexico Government,Government,AI Survey/Planning,Cross-departmental,Operations,Pilot/POC,Mixed,Mixed adoption results,3-6 months,Government
+Aldi (ALDIgo),Retail,Computer Vision,Single-department,Retail Operations,Production,Success,Automated checkout experience,12+ months,Enterprise
+Tesco (GetGo),Retail,Computer Vision,Single-department,Retail Operations,Production,Success,Reduced checkout times significantly,12+ months,Enterprise
+Wesco,Retail,Computer Vision,Single-department,Retail Operations,Production,Success,Instant item recognition,12+ months,Mid-market
+Urban Company,Technology Services,Azure OpenAI/Chatbots,Single-department,Customer Service,Production,Success,"85-90% query resolution, 5% satisfaction increase",12+ months,Mid-market
+Heineken,Beverages,Computer Vision/AI,Single-department,Sales/Field Operations,Production,Success,Multilingual voice bot implementation,12+ months,Enterprise
+Groupama,Insurance,Azure OpenAI/Virtual Assistant,Single-department,Customer Service,Production,Success,80% success rate for inquiries,3-6 months,Enterprise
+Lloyds Banking Group,Financial Services,Power Apps/Azure AI,Single-department,Customer Service,Production,Success,Enhanced customer communication,6-12 months,Enterprise
+PKO Leasing,Financial Services,AI/ML,Single-department,Finance/Operations,Production,Success,Various AI implementations,12+ months,Enterprise
+Nationwide,Insurance,AI Tools,Single-department,Customer Service,Production,Success,AI adoption improvements,12+ months,Enterprise
+LAQO Insurance,Insurance,Azure OpenAI/Chatbot,Single-department,Customer Service,Production,Success,"30% query resolution, 24/7 support",6-12 months,Mid-market
+Midea Group,Manufacturing,AI/Digital Transformation,Cross-departmental,Operations/Manufacturing,Production,Success,Significant operational improvements,12+ months,Enterprise
+Okian Essentials (SME),Food & Beverage SME,K-NN Algorithm/Forecasting,Single-department,Operations/Inventory,Production,Success,95-96% recognition accuracy,3-6 months,Small
+National Insurance Provider,Insurance,AI for Claims Processing,Single-department,Claims Processing,Production,Success,"30% time savings, doubled compliance",12+ months,Enterprise
+Energy Utility Company,Energy/Utilities,AI for Predictive Maintenance,Single-department,Maintenance/Operations,Production,Success,Predictive maintenance improvements,6-12 months,Mid-market
+Professional Services Firm,Professional Services,AI for Project Staffing,Single-department,HR/Resource Allocation,Production,Success,Data-informed culture adoption,12+ months,Mid-market
+Fast-growing Bank,Banking,RPA/Core Banking,Single-department,Finance/Banking,Production,Success,78% reduction in turnaround time,12+ months,Mid-market
+Manufacturing Company,Manufacturing,RPA/Manufacturing,Cross-departmental,Manufacturing/Operations,Production,Success,40% reduction in operating costs,36+ months,Enterprise
+High-tech Manufacturer,Manufacturing,RPA/Back-office,Cross-departmental,Operations/Back-office,Production,Success,"$90K annual savings, 10-day deployment",12+ months,Enterprise
+Tobacco Manufacturer,Tobacco/FMCG,Computer Vision/Merchandising,Single-department,Marketing/Merchandising,Production,Success,"2-3 days training, 95-97% accuracy",6-12 months,Enterprise
+Healthcare Platform Developer,Healthcare Technology,Agentic AI/Clinical Workflow,Single-department,Clinical Operations,Production,Success,"30% time savings, compliance improvement",6-12 months,Mid-market
+Bosch (Electronics),Electronics/Automotive,Computer Vision/PCB Inspection,Single-department,Quality Control/Manufacturing,Production,Success,Defect detection improvements,12+ months,Enterprise
+Volvo (Automotive),Automotive,Computer Vision/Damage Assessment,Single-department,Claims/Insurance,Production,Success,Damage assessment automation,12+ months,Enterprise
+German Bottle Cap Manufacturer,Manufacturing,Computer Vision/Quality Control,Single-department,Quality Control/Manufacturing,Production,Success,"120 caps/min inspection, improved accuracy",12+ months,Mid-market
+GovLab Canada,Government/Technology,AI/Environmental/Disaster Prediction,Cross-departmental,Public Services/Emergency Management,Production,Success,Various government AI applications,12+ months,Government
+US Department of Defense,Defense,AI/Defense Applications,Cross-departmental,Military/Defense Operations,Production,Mixed,Enhanced military decision-making,Ongoing,Government
+Various Educational Institutions,Education,AI/Educational Automation,Cross-departmental,Education/Administration,Mixed,Mixed,Reduced administrative burden,Mixed,Mixed
+,,,,,,,,,

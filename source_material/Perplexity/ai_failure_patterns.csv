@@ -1,0 +1,17 @@
+Failure_Pattern_Category,Specific_Pattern,Failure_Rate_Contribution,Cited_Studies
+Strategic Misalignment,Pilot paralysis - unable to scale beyond POC stage,High,Gartner/Forrester Research (to be verified)
+Strategic Misalignment,Model fetishism - focus on technical sophistication over business value,High,Multiple industry reports
+Strategic Misalignment,Lack of clear ROI measurement and business case,High,S&P Global Survey
+Implementation Issues,Attempting to replace deterministic systems entirely with AI,Medium,Forrester Analysis (verify MIT not NANDA-related)
+Implementation Issues,Poor integration with existing business processes,Medium,Multiple case studies
+Implementation Issues,Insufficient testing and validation in production environments,Medium,Industry reports
+Technical Challenges,Data quality and accessibility issues,High,Multiple studies
+Technical Challenges,Legacy system integration challenges,Medium,Enterprise surveys
+Technical Challenges,Inadequate MLOps and model monitoring capabilities,Medium,MLOps reports
+Organizational Resistance,Employee fear and resistance to AI adoption,Medium,Change management studies
+Organizational Resistance,Lack of AI literacy across the organization,Medium,Training effectiveness studies
+Organizational Resistance,Insufficient change management support,Medium,OCM research
+Resource Constraints,Inadequate budget allocation for full implementation,Medium,Budget analysis reports
+Resource Constraints,Lack of skilled AI/ML talent,High,Talent shortage studies
+Resource Constraints,Underestimating infrastructure and operational costs,Medium,TCO analysis studies
+,,,

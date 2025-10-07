@@ -1,0 +1,22 @@
+Taxonomy_Level_1,Taxonomy_Level_2,Primary_AI_Technology,Success_Rate_Category,Implementation_Complexity,Typical_ROI_Timeline,Key_Success_Factors,Common_Failure_Modes
+Core Operations,Manufacturing & Production,Computer Vision + RPA,High (80-95%),Medium,6-12 months,"Data quality, process standardization","Poor data quality, integration issues"
+Core Operations,Supply Chain & Logistics,Predictive Analytics + ML,Medium (60-80%),High,12-18 months,"Data integration, predictive accuracy","Data silos, model drift"
+Core Operations,Quality Control & Inspection,Computer Vision + ML,High (80-95%),Medium,3-9 months,"Image quality, validation processes",False positives/negatives
+Core Operations,Process Automation,RPA + Process Mining,High (80-95%),Low,3-6 months,"Process mapping, stakeholder buy-in","Process resistance, poor change mgmt"
+Knowledge Work,Research & Development,GenAI + Knowledge Management,Medium (60-80%),High,12-24 months,"Knowledge curation, user adoption","Knowledge silos, user resistance"
+Knowledge Work,Financial Analysis & Planning,ML + Predictive Analytics,High (80-95%),Medium,6-18 months,"Data governance, model accuracy","Model accuracy issues, data quality"
+Knowledge Work,Legal & Compliance,NLP + GenAI,Low (40-60%),High,18-36 months,"Regulatory compliance, change management","Regulatory changes, complexity"
+Knowledge Work,Strategic Planning,GenAI + Data Analytics,Low (40-60%),High,18-36 months,"Leadership alignment, data quality","Strategic misalignment, data gaps"
+Support Functions,Human Resources,AI + Process Automation,High (80-95%),Low,3-12 months,"Change management, process redesign","Change resistance, process complexity"
+Support Functions,IT Operations & Maintenance,Predictive Analytics + RPA,High (80-95%),Medium,6-15 months,"Infrastructure readiness, skills",Legacy system integration
+Support Functions,Procurement & Vendor Management,ML + Optimization,Medium (60-80%),Medium,9-18 months,"Vendor integration, data quality","Vendor complexity, integration"
+Support Functions,Facilities & Security,Computer Vision + IoT,Medium (60-80%),Medium,6-15 months,"Infrastructure integration, security","Security concerns, integration"
+Customer-Facing,Customer Service & Support,GenAI + Conversational AI,High (80-95%),Medium,3-9 months,"Customer experience design, training","Poor user experience, training gaps"
+Customer-Facing,Sales & Marketing,GenAI + Personalization,Medium (60-80%),High,6-18 months,"Personalization accuracy, privacy","Privacy concerns, personalization limits"
+Customer-Facing,Retail & Commerce,Computer Vision + ML,High (80-95%),Low,3-6 months,Customer journey optimization,"Customer resistance, integration"
+Customer-Facing,Field Operations,Mobile AI + Computer Vision,Medium (60-80%),Medium,6-12 months,"Mobile integration, user experience","Mobile limitations, connectivity"
+Decision Systems,Risk Assessment,ML + Statistical Models,High (80-95%),Medium,6-12 months,"Model validation, regulatory approval","Regulatory changes, model bias"
+Decision Systems,Credit & Underwriting,ML + Rules Engine,High (80-95%),Medium,6-12 months,"Data quality, risk modeling","Data bias, regulatory compliance"
+Decision Systems,Resource Allocation,Optimization + ML,Medium (60-80%),High,12-24 months,"Stakeholder alignment, data integration","Stakeholder conflicts, complexity"
+Decision Systems,Regulatory Compliance,NLP + Rules Engine,High (80-95%),Medium,6-12 months,"Regulatory framework, automation","Regulatory complexity, automation limits"
+,,,,,,,
