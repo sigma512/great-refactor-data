@@ -81,10 +81,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 
 ---
 
-<<<<<<< HEAD
-**Author:** Jeff Whatcott
-=======
 **Author:** Jeff Whatcott  
->>>>>>> 136ddf6fa0c839b0882fecbf39e0d9dcbca4f342
-**Contact:** jeff@whatcott.com
-**Last updated:** October 2025
+**Contact:** jeff@whatcott.com  
+**Last updated:** 16 October 2025
