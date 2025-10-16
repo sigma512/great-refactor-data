@@ -1,6 +1,6 @@
 # The Great Refactor: Empirical Data
 
-Supporting data for ["The Great Refactor: How AI Is Rewriting the Cognitive Code of Work"](link-to-essay)
+Supporting data for [&#34;The Great Refactor: How AI Is Rewriting the Cognitive Code of Work&#34;](link-to-essay)
 
 ## Overview
 
@@ -23,6 +23,7 @@ This repository contains systematic analysis of 47 verified enterprise AI implem
 ## Dataset
 
 **`Master_AI_Case_Studies_Consolidated.csv`** — 47 verified enterprise AI implementations coded across 22 fields:
+
 - Organization, sector, geography, size
 - Process type, function, AI modality
 - Integration depth, data posture, controls
@@ -41,20 +42,18 @@ See [`data/DATA_DICTIONARY.md`](data/DATA_DICTIONARY.md) for complete field defi
 ## Methodology
 
 All case studies drawn from publicly verifiable sources:
+
 - Government disclosures (VA AI Use Case Inventory)
-- Industry research (Gartner 2024-2025, McKinsey State of AI 2024, Deloitte State of GenAI Q4 2024, Stanford HAI AI Index 2025)
+- Industry research (Gartner 2024-2025, McKinsey State of AI 2024, Deloitte State of GenAI Q4 2024, S&P Global AI Infrastructure Report 2024)
 - Company-disclosed implementations with named organizations and quantified outcomes
 
 See [`analysis/AI_Adoption_Taxonomy_Synthesis.md`](analysis/AI_Adoption_Taxonomy_Synthesis.md) for complete coding framework, confidence assessments, and pattern analysis.
 
 ## Key Findings
 
-1. **Success rate varies by organizational maturity:** High-maturity organizations achieve 54% pilot-to-production success vs. 20% for low-maturity organizations (Gartner 2024-2025)
-
+1. **Success rate varies by organizational maturity:** High-maturity organizations achieve 54% pilot-to-production success vs. 20% for low-maturity organizations (Gartner 2024-2025). However, 30% of generative AI projects will be abandoned after proof-of-concept by end of 2025 (Gartner 2024)
 2. **Four predictable failure modes:** Over-delegation + anthropomorphism, over-delegation + deterministic expectations, under-delegation + software mindset, under-delegation + analysis paralysis
-
 3. **Integration architecture matters more than technology:** Organizations using similar AI capabilities, vendors, and talent achieve radically different outcomes based on how they design human-AI integration
-
 4. **Most organizations stuck at pilot scale:** The "GenAI Divide" isn't about model quality—it's about bridging from experimentation to production-scale integration
 
 See [`analysis/AI_Adoption_Taxonomy_Synthesis.md`](analysis/AI_Adoption_Taxonomy_Synthesis.md) for detailed pattern breakdown, sector analysis, and success factors.
@@ -71,6 +70,7 @@ Retrieved from https://github.com/sigma512/great-refactor-data
 ## Contributing
 
 Found an error or have additional verified case studies? Please file an issue or submit a pull request. All contributions must include:
+
 - Named organization
 - Publicly verifiable source
 - Quantified outcomes (where available)
@@ -81,6 +81,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 
 ---
 
-**Author:** Jeff Whatcott  
-**Contact:** [your contact method]  
-**Last updated:** January 2025
+**Author:** Jeff Whatcott
+**Contact:** jeff@whatcott.com
+**Last updated:** October 2025
